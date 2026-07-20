@@ -1,0 +1,18 @@
+<?php
+
+namespace Database\Seeders;
+
+use Http;
+use Illuminate\Database\Console\Seeds\WithoutModelEvents;
+use Illuminate\Database\Seeder;
+
+class CarModelSeeder extends Seeder
+{
+    /**
+     * Run the database seeds.
+     */
+    public function run(): void
+    {
+
+    }
+}
